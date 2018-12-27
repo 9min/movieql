@@ -4,8 +4,9 @@
 
 **실행 방법**
 
-1. yarn start
-2. localhost:4000
+1. yarn
+2. yarn start
+3. localhost:4000
 
 **영화 점수 5점 이상인 것들 최대 3개까지만 가져오기**
 
