@@ -39,3 +39,5 @@ query {
   }
 }
 ```
+
+출처: [나의 첫번째 GraphQL 서버 만들기](https://www.youtube.com/watch?v=3PZGW5Iwtv4&list=PL7jH19IHhOLOpU_yAYzCO4iQNvdou1AnK)
