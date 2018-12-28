@@ -8,6 +8,9 @@
 2. yarn start
 3. localhost:4000
 
+**클라이언트 화면과 같이 보고 싶으면 아래 프로젝트를 다운로드해서 같이 실행해주세요.**  
+[https://github.com/9min/movieql-client](https://github.com/9min/movieql-client) 
+
 **영화 점수 5점 이상인 것들 최대 3개까지만 가져오기**
 
 ```graphql
@@ -39,6 +42,6 @@ query {
     rating
   }
 }
-```
+``` 
 
 출처: [나의 첫번째 GraphQL 서버 만들기](https://www.youtube.com/watch?v=3PZGW5Iwtv4&list=PL7jH19IHhOLOpU_yAYzCO4iQNvdou1AnK)
